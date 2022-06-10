@@ -1,0 +1,6 @@
+标准文件:	result_file/data/std_k.txt
+对比文件:	result_file/seg/uni_gram.txt
+准确率:	94.63013891827092%
+召回率:	71.5682810572981%
+F值:	81.49916683431199%
+
